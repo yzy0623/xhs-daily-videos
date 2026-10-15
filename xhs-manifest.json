@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "2026-10-10-weknora",
+      "title": "腾讯开源：文档一键变知识库",
+      "body": "10 月初，腾讯开源了 LLM 知识平台 WeKnora：原始文档丢进去，自动变成可查询的 RAG、自主推理的智能体和自维护的 Wiki。三种模式共用一套知识库，支持十几种文档格式，还能从飞书、语雀、钉钉自动同步。开箱即用，本地部署也行，数据不出公司。#AI #智能体 #开源 #WeKnora #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/2665881310535515/y5dxbo9l607ys9njmnmg2rsw/weknora-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/2296680054417478/84jvyoa0b7ijj9bpl0zxh1nt/cover.png"
+    },
+    {
+      "id": "2026-10-10-agentreach",
+      "title": "给 AI 助手装上全网之眼",
+      "body": "你的 AI 助手再聪明，也只能回答训练那天以前的事。GitHub 上这个 9 万 star 的开源项目 Agent-Reach，专门解决这个问题：一个命令行工具，让 AI 助手能读能搜十几个平台——推特、Reddit、油管、GitHub、B 站、小红书、抖音、微博、微信公众号，全都一句话调动。最狠的是零 API 费用。#AI #智能体 #开源 #AgentReach #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/2173788280014702/2hlcqcy2qe1bz9o9lp57im0p/agentreach-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/1420587449573474/4lgi1vc1dte35xh1g3ucbmyl/cover.png"
+    },
+    {
+      "id": "2026-10-11-alphaproof",
+      "title": "AI 解开悬了 56 年的数学题",
+      "body": "有道数学题，整整 56 年没人做出来，最近却被 AI 拿下了。10 月 8 日，谷歌 DeepMind 公布 AlphaProof Nexus：AI 出想法，Lean 验证器逐行检查，错一步就打回去重来。353 个 Erdős 难题里独立解出 9 个，492 个 OEIS 猜想拿下 44 个。数学讲究的是证明，不是答案——AI 从答题者，变成了一台不知疲倦的证明机器。#AI #数学 #DeepMind #AlphaProof #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/26887170844314071/31jq36lhml63b9hssnvvyzyw/alphaproof-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/1777323906820317/4a8lxceh1pdxr4sdp5e6394n/cover.png"
+    },
+    {
+      "id": "2026-10-12-hjepa",
+      "title": "世界模型学会分层思考",
+      "body": "杨立昆团队新论文 H-JEPA：给世界模型装上\"多层抽象\"，顶层定目标、下层层层分解成子目标，时间越远预测越粗。Visual AntMaze 导航成功率从 18% 跳到 73%，规划算力反而更少，还可直接学真实机器人视频。#AI #世界模型 #LeCun #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/1112759424461478/aqpdm1bujikbw5uuxeuvfpbq/hjepa-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/2916709228689761/ey03ipmgxgj8hadrl9mz5bbs/cover.png"
+    },
+    {
+      "id": "2026-10-13-selfreplication",
+      "title": "AI 会不会像病毒一样复制自己",
+      "body": "AI 会不会像病毒一样，自己复制自己？10 月 12 日，Anthropic 红队的新报告说，这件事正在从科幻变成倒计时。他们用 15 台 55 美元的廉价电视盒子组网，跑起 260 亿参数大模型；在 8 节点封闭网络里，模型自己扫描设备、传递权重、立起推理服务。好在防御并不复杂：把可疑设备隔离 14 天，就能清除 92% 的感染。#AI #安全 #Anthropic #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/28147892654888130/qbp8so3amcfwhq9k0cu1o16z/selfreplication-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/4571939776400647/4vx8qw910uusx5p2s5oqzg4u/cover.png"
+    },
+    {
+      "id": "2026-10-14-pave",
+      "title": "智能体新协议：人类判断可被调用",
+      "body": "智能体干到关键节点时，主动\"呼叫\"人来拍板。FRUIT PAVE 协议 10 月 13 日发布：谁的判断、凭什么权限，全记在链上。人类判断，第一次成了可以被调用的服务。#AI #智能体 #协议 #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/1676927354050052/v0zn6bz0hhyupk7p1pmxmj15/pave-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/1119311397505503/xwou3l0094s99nv2lkhr2pgo/cover.png"
+    }
+  ]
+}
