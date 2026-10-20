@@ -1,11 +1,25 @@
 {
   "items": [
     {
-      "id": "2026-10-19-hybridagent",
-      "title": "智能体心算：token少一半快两倍",
-      "body": "现在的 AI 智能体一边想一边写，把每一步思考都写成文字，慢，还贵。10 月 13 日，斯坦福、Meta 等团队的论文说，智能体其实可以\"心算\"：思考在潜空间里默默进行，只有调工具、给最终答案时才切换成文字。实测 11 个基准平均性能涨 10.4%，token 少三成半到五成半，推理快约两倍，成本降约三倍。代码已开源。#AI #智能体 #论文 #科技热点",
-      "video_url": "https://muse.ai/files/425093774019294/2299374447574102/xh7zsngtc70afmh5jjmzxnc6/hybridagent-90s-final.mp4",
-      "cover_url": "https://muse.ai/files/425093774019294/1136710112213171/wj4ssyapiykt45dmzis9tpy9/cover.png"
+      "id": "2026-10-20-bci-standard",
+      "title": "中国牵头制定脑机接口国际标准",
+      "body": "脑机接口能用意念打字、控制机械臂，可这种设备到底由哪些部分组成、边界画在哪，各家一直没有统一说法。10 月 19 日，国际标准化组织正式发布《信息技术 脑机接口 参考架构》：中国专家任项目负责人，联合意、韩、英等十国专家共同制定。它回答了\"是什么、怎么用、有什么功能、如何实现\"四个核心问题，为后续数据、接口、测试、应用标准提供统一参考。#脑机接口 #标准 #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/1094640083172751/k9om7tji0y1lhv7jgx5w1kmo/bci-standard-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/29257629087194831/3296r3np2cuzegm02em1be1h/cover.png"
+    },
+    {
+      "id": "2026-10-20-openweight",
+      "title": "开源模型，先验明正身",
+      "body": "你从网上下载一个开源大模型，装进公司系统就敢用了吗？10 月 16 日，微软和英伟达联手发布白皮书：五大类、三十种风险清单，还点明风险高低跟权重开不开放没关系。模型被微调、合并、压缩过，安全防护可能悄悄失效，表现却一点没变。两家的原则是\"先验明正身，再看行为\"：密码学签名确认文件与原厂一致，没有签名就记未决风险，改过必须重测。#AI #开源模型 #安全 #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/1098013959512588/ea6xbyq7a6q6mikyh1zkpg94/openweight-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/1833416951137625/rethoqx053l7z8nixgmjdl2f/cover.png"
+    },
+    {
+      "id": "2026-10-20-headroom",
+      "title": "给AI智能体装个压缩层",
+      "body": "AI 智能体每干一次活，都要把工具输出、日志、文件和历史对话原封不动重发一遍，全按字付费。GitHub 开源项目 Headroom 卡在智能体和大模型中间加了一层\"上下文压缩层\"：按项目方数据，JSON 类数据 token 降六成到九成五，编程场景省一到两成；一万多 token 的日志压到一千出头，致命错误照样一字不差找出来。原文存本地缓存，模型需要随时调回。仓库星标已 7.6 万。#AI #智能体 #开源 #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/2130849847821514/o3m03ap9l7equxpgliiaurug/headroom-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/28741706222146345/2n080atabjwi8pyr7hnjiuaw/cover.png"
     }
   ]
 }
