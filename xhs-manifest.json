@@ -4,8 +4,15 @@
       "id": "2026-10-24-rea-xiaolin",
       "title": "万物逆向工程REA：没源代码也能看明白",
       "body": "没有源代码，也能把一个功能看明白。冲到37万星的REA，把智能体和专业逆向工具连起来，拆程序时每条结论都带着证据，没把握就标注未知。所有分析都在本地跑，只拆自己拥有或被授权的软件。#开源项目 #AI智能体 #逆向工程 #科技热点",
-      "video_url": "https://muse.ai/files/425093774019294/1387291649893851/lul6zhtrs4jz5qh1wz39lupz/rea-xiaolin-90s-final.mp4",
+      "video_url": "https://muse.ai/files/425093774019294/1566693441893733/ur8v5jylvxkbr1wi7ouwo0uc/rea-xiaolin-90s-animated.mp4",
       "cover_url": "https://muse.ai/files/425093774019294/2610743546016642/jhqjqd02faw00ah874noiecn/rea-cover.png"
+    },
+    {
+      "id": "2026-10-24-superpowers-xiaolin",
+      "title": "给编程智能体立规矩：Superpowers",
+      "body": "编程智能体最爱上来就写代码，写完才发现不是你要的。三十万星的Superpowers给它立规矩：先问清需求，设计让你签字，活拆成几分钟的小任务，全程先写测试，做完就评审，拿证据说话。#开源项目 #AI智能体 #编程 #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/2002701853751076/tqxaztt71j4wsn89wlt6qy6u/superpowers-xiaolin-90s-animated.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/2738734813263115/lgif6egq802qrmv6srwz61fa/superpowers-cover.png"
     }
   ]
 }
