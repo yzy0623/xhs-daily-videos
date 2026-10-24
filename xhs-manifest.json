@@ -1,18 +1,11 @@
 {
   "items": [
     {
-      "id": "2026-10-21-scorpion-binder",
-      "title": "Claude 自主设计蝎毒蛋白结合器",
-      "body": "蝎子蜇伤一年夺走超过三千条生命，抗毒血清又贵又缺。10 月 20 日，Anthropic 公布实验：一条初始提示加四次后续指令，Claude 在 64 小时里自主设计出 31.8 万个候选蛋白，连筛选标准都是它自己定的。211 个设计送进实验室验证，17 个达标，最强的两个亲和力达到个位数纳摩尔。不过先别急着欢呼：还没在细胞和动物身上验证中和效果，算不上抗毒血清。全部设计和数据已公开。#AI #Claude #生物科技 #科技热点",
-      "video_url": "https://muse.ai/files/425093774019294/28847028638241446/e521o7dg2y1f2j1ulkq9wiye/scorpion-binder-90s-final.mp4",
-      "cover_url": "https://muse.ai/files/425093774019294/988533430259093/0ql0ilskyta7uhz4ad5sbfjq/cover.png"
-    },
-    {
-      "id": "2026-10-22-openai-safety",
-      "title": "OpenAI 安全政策大转向：上新先过审",
-      "body": "去年三月还公开反对州级立法的 OpenAI，今年十月来了个一百八十度大转弯。10 月 22 日，它宣布统一各项服务的安全政策，11 月 20 日生效：模型路由器和 AI 网关把模型转交第三方之前，必须先拿到它的审查批准；还推出匿名安全身份证 Safety ID，调查滥用时能区分最终用户又不暴露真实身份。另一边，它的高管 10 月 20 日致信加州州长，要求强化 SB53：模型紧急关停、每年强制独立审计。#AI #OpenAI #安全 #科技热点",
-      "video_url": "https://muse.ai/files/425093774019294/1750491876250732/8kue30k7v8jk0t5fb3j4w817/openai-safety-90s-final.mp4",
-      "cover_url": "https://muse.ai/files/425093774019294/1783765546218668/doo8by2ccj708ermcw800dqw/cover.png"
+      "id": "2026-10-24-rea-xiaolin",
+      "title": "万物逆向工程REA：没源代码也能看明白",
+      "body": "没有源代码，也能把一个功能看明白。冲到37万星的REA，把智能体和专业逆向工具连起来，拆程序时每条结论都带着证据，没把握就标注未知。所有分析都在本地跑，只拆自己拥有或被授权的软件。#开源项目 #AI智能体 #逆向工程 #科技热点",
+      "video_url": "https://muse.ai/files/425093774019294/1387291649893851/lul6zhtrs4jz5qh1wz39lupz/rea-xiaolin-90s-final.mp4",
+      "cover_url": "https://muse.ai/files/425093774019294/2610743546016642/jhqjqd02faw00ah874noiecn/rea-cover.png"
     }
   ]
 }
